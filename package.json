@@ -1,0 +1,19 @@
+{
+  "name": "cloudoll-web-sample",
+  "version": "1.0.0",
+  "description": "cloudoll 开发时候时候写的测试项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudoll/cloudoll-web-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudoll/cloudoll-web-sample/issues"
+  },
+  "homepage": "https://github.com/cloudoll/cloudoll-web-sample#readme"
+}
